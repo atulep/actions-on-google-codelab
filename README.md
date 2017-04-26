@@ -1,6 +1,7 @@
 # Build your first Google Action
 This code-along tutorial offers a DIY codelab for Actions on Google.
 * Index:
+  0. Overview
   1. Setup Environment
   2. Google Actions Concepts
   3. Develop an API.AI project
