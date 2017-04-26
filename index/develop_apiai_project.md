@@ -11,4 +11,4 @@ Click on the ```Intents``` dropdown on the left hand side of your screen. You sh
 
 Click on the ```Default Welcome Intent```. Put ```Talk to Number Facts``` into ```User says``` field. Here you, typically, specify user phrases that will trigger that intent.
 
-In the bottom of the page, check ```Use webhook``` box. This will connect our agent to the Node server we will create in the next step. 
+Next, go to the ```Fulfillment``` and enable the Webhook. Then, go back to the ```Default Welcome Intent``` and in the bottom of the page, check ```Use webhook``` box. This will connect our agent to the Node server we will create in the next step.
