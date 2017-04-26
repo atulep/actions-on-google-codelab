@@ -9,10 +9,10 @@ There are three major components that comprise a Google Action.
 2. Dialogs - dialogs between the user and your Action.
 3. Fulfillment - the code that processes the user input and returns the responses and you expose it as a REST endpoint.
 
-  ![components](/google_action_components.png)
+  ![components](index/google_action_components.png)
 
 The communication between Google Assistant and your application is done via HTTP request/response. The format is specified by Conversation API. However, in this codelab, we will be using a tool called API.AI that will handle the Conversation API formatting for us.
 
-![conversation api](/conv_api.png)
+![conversation api](index/conv_api.png)
 
 For more in-depth reading, please refer to [official Actions on Google documentation](https://developers.google.com/actions/develop/conversation).
